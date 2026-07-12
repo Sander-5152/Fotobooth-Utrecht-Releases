@@ -3,8 +3,13 @@
 Officiële downloads en automatische updates voor de **Fotobooth Utrecht**
 photobooth-app (Linux). De broncode is privé; deze repository bevat alleen:
 
-* **Releases** (rechts op deze pagina): het programma `FotoboothUtrecht`
-  als één uitvoerbaar bestand per versie.
+* **Releases** (rechts op deze pagina), per versie:
+  * `FotoboothUtrecht-Klantpakket-<versie>.zip` — **voor nieuwe
+    installaties**: het programma, de starter, het installatiescript
+    (`install.py`) en de handleidingen in één download. Uitpakken en
+    `python3 install.py` draaien — zie INSTALLATIE.md in de zip.
+  * `FotoboothUtrecht` — alleen het programma (dit bestand halen
+    geïnstalleerde apps zelf op bij een update).
 * **`manifest.json`**: het ondertekende update-manifest. Geïnstalleerde
   apps controleren dit bestand bij het opstarten en werken zichzelf bij
   de volgende start bij.
