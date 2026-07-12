@@ -13,6 +13,10 @@ photobooth-app (Linux). De broncode is privé; deze repository bevat alleen:
 * **`manifest.json`**: het ondertekende update-manifest. Geïnstalleerde
   apps controleren dit bestand bij het opstarten en werken zichzelf bij
   de volgende start bij.
+* **ARM (bv. Raspberry Pi 5):** zodra beschikbaar hebben ARM-versies een
+  `-arm64`-achtervoegsel in de bestandsnaam en een eigen
+  `manifest-arm64.json`. Download altijd de versie die bij de processor
+  van de pc past — het installatiescript controleert dit ook.
 
 ## Hoe updates werken
 
