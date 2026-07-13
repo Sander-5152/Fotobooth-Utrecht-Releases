@@ -1,7 +1,7 @@
 # Fotobooth Utrecht — Releases
 
 Officiële downloads en automatische updates voor de **Fotobooth Utrecht**
-photobooth-app (Linux). De broncode is privé; deze repository bevat alleen:
+photobooth-app (Linux):
 
 * **Releases** (rechts op deze pagina), per versie:
   * `FotoboothUtrecht-Klantpakket-<versie>.zip` — **voor nieuwe
@@ -29,5 +29,4 @@ photobooth-app (Linux). De broncode is privé; deze repository bevat alleen:
 ## Licentie
 
 De app werkt met een licentiesleutel per pc, geldig voor een afgesproken
-periode. Interesse of een sleutel nodig? Neem contact op met
-Fotobooth Utrecht (sander.build.things@gmail.com).
+periode. Interesse of een sleutel nodig? Neem contact op met Fotobooth Utrecht
