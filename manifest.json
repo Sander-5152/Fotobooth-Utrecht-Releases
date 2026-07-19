@@ -1,9 +1,9 @@
 {
   "data": {
-    "version": "1.1.3",
-    "url": "https://github.com/Sander-5152/Fotobooth-Utrecht-Releases/releases/download/v1.1.3/FotoboothUtrecht",
-    "sha256": "8e3312016ce24b7e5a02b25dd0ae629c06b06f7f67f9c401cbd53ecb62339164",
-    "notes": "Licentieherinnering weg van het startscherm; sjabloon-event heet 'Voorbeeld event'; ARM-voorbereiding"
+    "version": "1.1.4",
+    "url": "https://github.com/Sander-5152/Fotobooth-Utrecht-Releases/releases/download/v1.1.4/FotoboothUtrecht",
+    "sha256": "d26e2bcd18e23e297600c562cc1347976431da9d65aa524212bae5916541e9c2",
+    "notes": "arm"
   },
-  "sig": "GKnmiwreyQ5sUhhpm4Dmtdqmd2fj4PQb75vAqXhEgn24q2MbkIig5lvf_S1wPScUYar-sNRDYtazn_89AadRAw"
+  "sig": "JAUgYMqmnmNw6X-atlEVlXWcywmlEX7TCnSj60C_fkwYUTnBVTy8K0As6J1mWmqNdqyMRxqZ4ab63RKem7oVCg"
 }
