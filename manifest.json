@@ -1,9 +1,9 @@
 {
   "data": {
-    "version": "1.1.0",
-    "url": "https://github.com/Sander-5152/Fotobooth-Utrecht-Releases/releases/download/v1.1.0/FotoboothUtrecht",
-    "sha256": "33c5aca9e4db22150fcc4bef986c66c22e7cea76e25fdc30f1187a9b167819c0",
-    "notes": "Fotostrips in het losse programma, zip-download fix, update-terugdraaiing, installatiescript, printproces-handleiding"
+    "version": "1.1.3",
+    "url": "https://github.com/Sander-5152/Fotobooth-Utrecht-Releases/releases/download/v1.1.3/FotoboothUtrecht",
+    "sha256": "8e3312016ce24b7e5a02b25dd0ae629c06b06f7f67f9c401cbd53ecb62339164",
+    "notes": "Licentieherinnering weg van het startscherm; sjabloon-event heet 'Voorbeeld event'; ARM-voorbereiding"
   },
-  "sig": "zVPoXXm6RZkpVLPCCkaXJ2wp9XJeyqWnw5GWO7Ny44EOXDFqnZ9qaLGa40n0loDruBEjCDjwePqFc0cPCglYCQ"
+  "sig": "GKnmiwreyQ5sUhhpm4Dmtdqmd2fj4PQb75vAqXhEgn24q2MbkIig5lvf_S1wPScUYar-sNRDYtazn_89AadRAw"
 }
