@@ -1,9 +1,9 @@
 {
   "data": {
-    "version": "1.1.4",
-    "url": "https://github.com/Sander-5152/Fotobooth-Utrecht-Releases/releases/download/v1.1.4/FotoboothUtrecht",
-    "sha256": "d26e2bcd18e23e297600c562cc1347976431da9d65aa524212bae5916541e9c2",
-    "notes": "arm"
+    "version": "1.1.5",
+    "url": "https://github.com/Sander-5152/Fotobooth-Utrecht-Releases/releases/download/v1.1.5/FotoboothUtrecht",
+    "sha256": "219bc7809b212b05fe92151ce90ac720782d41ffdf25b86fe6e36417c5f1b532",
+    "notes": "Display layout"
   },
-  "sig": "JAUgYMqmnmNw6X-atlEVlXWcywmlEX7TCnSj60C_fkwYUTnBVTy8K0As6J1mWmqNdqyMRxqZ4ab63RKem7oVCg"
+  "sig": "XOOxLbV4KOe6HHj8QG1Fh3K19wA777Rm3P_FsSdTNd3hv9DsqN_LwplvdRXrulOBllPmN7HzBypGLOBdffgYAw"
 }
